@@ -12,7 +12,6 @@ use PHPUnit\Framework\TestCase;
 
 class InputFilterPluginTest extends TestCase
 {
-
     /** @var MvcEvent */
     private $event;
 
